@@ -1,0 +1,14 @@
+[project]
+name = "lortnoc-comfyui"
+description = "This is a repository for using LoRTnoC (LoRA with hint block of ControlNet) on ComfyUI.\nNOTE:Please place the model file in the same location as controlnet. (Is this too arbitrary?)"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/laksjdjf/LoRTnoC-ComfyUI"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "LoRTnoC-ComfyUI"
+Icon = ""
